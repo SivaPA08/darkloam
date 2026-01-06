@@ -7,7 +7,7 @@ M.apply = function()
 	vim.cmd("highlight clear")
 	vim.o.termguicolors = true
 	vim.o.background = "dark"
-	vim.g.colors_name = "ashenmoon"
+	vim.g.colors_name = "darkloam"
 end
 
 return M
